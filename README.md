@@ -6,7 +6,7 @@
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. 
 The goal is to prepare tidy data that can be used for later analysis. 
 
-*The Project includes the following files:
+* The Project includes the following files:
 
 - 'README.md': The file which should be read first.
 - 'CodeBook.md': Explaint the variables, data and transformations or work that this project performed to clean up the data. 
