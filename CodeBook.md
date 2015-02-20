@@ -22,6 +22,8 @@ The value of each cell is the average of each variable for each activity and eac
 #### Step:
 
 1. Merges the training and the test sets to create one data set.
+ * Load the training and test data set by read.table. Merge the data sets by rbind.
+ 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
  * Extract the Columns which the column name contains the string "Mean", "mean" or "Std"
 
